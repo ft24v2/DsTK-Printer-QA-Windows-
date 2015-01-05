@@ -1,0 +1,9 @@
+('C:\\purple\\dist\\printer_restore.exe',
+ False,
+ False,
+ 'chalk.ico',
+ None,
+ [],
+ None,
+ False,
+ 1418802809L)
